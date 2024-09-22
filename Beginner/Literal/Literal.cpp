@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void entry(){
+int main(){
     cout << 'P' << endl;
     cout << 2022 << endl;
     cout << "I am learning primitive data. #RecursionCS" << endl;
